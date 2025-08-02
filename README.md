@@ -21,7 +21,7 @@ Electrical & Computer Engineering student at the University of Cyprus. My focus 
       <thead>
         <tr>
           <th>Languages</th>
-          <th>Networks and Security</th>
+          <th>Networks & Security</th>
           <th>Systems & DevOps</th>
         </tr>
       </thead>
