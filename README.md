@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Geo&size=35&letterSpacing=1&duration=1&color=FFFFFF&repeat=false&width=500&height=46&lines=%3E+Hello+world!+I'm+Lefteris+Adamou" alt="Static Terminal Intro" /><br>
-
-Electrical & Computer Engineering student at the University of Cyprus. My focus is building systems that are resilient, secure, and efficient. I work with low-level tools and recently gained experience on ci/cd pipeline creation and automation. Outside of engineering, I run my own clothing brand that reflects a mindset of discipline and evolution.
+<img src="https://readme-typing-svg.herokuapp.com?font=Geo&size=35&letterSpacing=1&duration=1&color=FFFFFF&repeat=false&width=500&height=46&lines=%3E+Hello+world!+I'm+Lefteris+Adamou" alt="Static Terminal Intro" />
+Computer Engineering student @ University of Cyprus. <br>
+I work with low-level tools and recently gained experience on ci/cd pipeline creation and automation. I’m interested in cybersecurity and penetration testing, and I’m constantly learning to improve my skills. Outside of engineering, I run a clothing brand called Godlike that reflects a mindset of discipline and personal growth.
 
 ---
 <table>
