@@ -62,9 +62,13 @@ I work with low-level tools and recently gained experience on ci/cd pipeline cre
 
 ---
 <p>
-  <img src="https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="image" />
+  <a href="https://www.credly.com/badges/f1b43d78-d976-41a8-bea1-48aceb5d9804/public_url">
+    <img src="https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="image" />
+  </a> 
+  <a href="https://www.credly.com/badges/eadb3b43-5e91-476f-8a49-2cd040c44b59/public_url">
+    <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="image" />
+  </a> 
   <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/lefterizz.png" alt="image" />
-  <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="image" />
 </p>
 
 <p align="right">
