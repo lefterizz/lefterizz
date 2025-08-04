@@ -15,7 +15,7 @@ I work with low-level tools and recently gained experience on ci/cd pipeline cre
       <!-- > Toolkit -->
       <div style="display: flex; align-items: center; margin-bottom: 10px;">
         <img src="https://readme-typing-svg.herokuapp.com?font=Geo&size=25&duration=500&pause=1500&color=B30000&multiline=true&width=15&height=31&lines=%3E" alt="Typing SVG" />
-        <img src="https://readme-typing-svg.herokuapp.com?font=Geo&size=25&duration=1&pause=1000&color=B30000&multiline=true&width=71&height=31&lines=Toolkit" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Geo&size=25&duration=1&pause=1000&color=B30000&multiline=true&repeat=false&width=71&height=31&lines=Toolkit" alt="Typing SVG" />
       </div>
     <table>
       <thead>
